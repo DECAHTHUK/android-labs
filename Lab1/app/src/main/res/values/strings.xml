@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="input_hint">Enter the color</string>
+    <string name="change_the_color">Lezgooo</string>
+    <string name="choose_color">Type in the color you want your app change to(red, green, blue)</string>
+    <string name="error_message">Wrong color name.</string>
+</resources>
