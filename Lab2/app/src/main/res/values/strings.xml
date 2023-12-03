@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="add_new_text">Добавить</string>
+    <string name="thing">Товар</string>
+    <string name="quantity">Количество</string>
+    <string name="delete_text">Удалить</string>
+    <string name="sht_text">%1$s шт.</string>
+    <string name="error_message">Поля не должны быть пустыми</string>
+</resources>
